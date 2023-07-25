@@ -1,0 +1,13 @@
+1.Aplicaciones de mensajería instantánea: 
+
+Las aplicaciones de mensajería instantánea son herramientas que permiten a los usuarios enviar y recibir mensajes de texto en tiempo real. Algunas de las aplicaciones más populares para esto incluyen WhatsApp, Telegram, Facebook Messenger y Signal. Estas aplicaciones también suelen ofrecer funcionalidades adicionales, como llamadas de voz y video, lo que les permite proporcionar comunicaciones en tiempo real de múltiples formas.
+
+2.Plataformas de videoconferencia: 
+
+Estas plataformas permiten realizar reuniones y conferencias virtuales en tiempo real mediante el uso de cámaras y audio en directo. Algunos ejemplos conocidos son Zoom, Microsoft Teams, Google Meet y Skype. Estas herramientas son muy útiles para la colaboración en equipos distribuidos geográficamente y para mantener la comunicación cara a cara, aunque sea virtualmente.
+
+3.Comunicación en tiempo real en juegos en línea: 
+
+Muchos videojuegos en línea permiten a los jugadores comunicarse mientras están inmersos en el juego. Estos juegos suelen tener chat de texto y, en algunos casos, también permiten la comunicación de voz a través de funciones integradas o servicios externos. Algunos ejemplos populares incluyen juegos de equipos como Fortnite, Valorant, y juegos de rol multijugador masivos en línea (MMORPG) como World of Warcraft.
+
+Estos medios de software han revolucionado la forma en que nos comunicamos, permitiendo que personas de todo el mundo se conecten y colaboren en tiempo real de manera rápida y efectiva.
